@@ -1,0 +1,15 @@
+name: TashCTF
+main: com.tashctf.Main
+version: 0.01
+author: rory838
+commands:
+   settp:
+      description: This is a demo command.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
+   tpto:
+      description: This is a demo command.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
